@@ -1,7 +1,7 @@
 ## Olá Mundo, me chamo Lucas Rodrigues e sou estudante de Sistemas de Informação 👋
 
 - 🌱 Estudando Python
-- 🖼  HTML, CSS, Python e C 
+- 🖼  HTML, CSS, Python, Java e C 
 - 📫 Contate-me no e-mail: lucardsprof@gmail.com
 
 <div style="display: inline_block"><br>
