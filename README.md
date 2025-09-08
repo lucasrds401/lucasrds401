@@ -1,8 +1,8 @@
-## Olá Mundo, me chamo Lucas Rodrigues e sou estudante de Sistemas de Informação 👋
+## Hello World, my name is Lucas Rodrigues and I am an Information Systems student! 👋
 
-- 🌱 Estudando Python
-- 🖼  HTML, CSS, Python, Java e C 
-- 📫 Contate-me no e-mail: lucardsprof@gmail.com
+- 🌱 Studying Python
+- 🖼  HTML, CSS, Python, Java and C 
+- 📫 Contact me by email: lucardsprof@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
