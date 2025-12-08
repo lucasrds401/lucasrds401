@@ -1,4 +1,4 @@
-<h2 align="left">Hello World, my name is Lucas Rodrigues and I am an Information Systems student! 👋</h2>
+<h1 align="left">Hello World, my name is Lucas Rodrigues and I am an Information Systems student! 👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🤖 Languages and Technologies</h2>
 
 ###
 
