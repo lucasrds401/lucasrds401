@@ -33,18 +33,14 @@
 ## 📬 Contact Me
 
 <div align="left">
-  <a href="www.linkedin.com/in/lucas-rodrigues-da-silva-5690a3ueds" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
-  </a>
-  <img width="12" />
-
   <a href="https://www.instagram.com/lucasl.__/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" alt="instagram logo" />
-  </a>
-  <img width="12" />
-
-  <a href="mailto:lucardsprof@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a> 
+  <a href="www.linkedin.com/in/lucas-rodrigues-da-silva-5690a3ueds" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:lucasrdsprof@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
 
