@@ -1,7 +1,5 @@
 <h1 align="left">👋 Hello World! I'm Lucas Rodrigues</h1>
 
-<h3 align="left">💻 Information Systems Student</h3>
-
 ---
 
 ## 📌 About Me
